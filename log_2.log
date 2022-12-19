@@ -1,0 +1,4 @@
+[datetime.datetime(2022, 12, 19, 23, 3, 34, 108421), 'hello_world', 'Hello World']
+[datetime.datetime(2022, 12, 19, 23, 3, 34, 108755), 2, 2, 'summator', 4]
+[datetime.datetime(2022, 12, 19, 23, 3, 34, 108900), 6, 2, 'div', 3.0]
+[datetime.datetime(2022, 12, 19, 23, 3, 34, 109119), 4.3, 2.2, 'summator', 6.5]
